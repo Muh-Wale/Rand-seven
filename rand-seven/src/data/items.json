@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Burger With Cheese",
+        "price": 15.99,
+        "imgUrl": "/imgs/one.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Seasoned Meat",
+        "price": 9.99,
+        "imgUrl": "/imgs/two.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Bread",
+        "price": 7.99,
+        "imgUrl": "/imgs/three.jpg"
+    },{
+        "id": 4,
+        "name": "Jollof Rice",
+        "price": 20.99,
+        "imgUrl": "/imgs/four.jpg"
+    }
+]
